@@ -1,0 +1,134 @@
+.Main-div{
+   
+    background: rgb(19, 18, 18);
+    height: 100px;
+    
+
+
+}
+.Menu ul{
+    display: flex;
+    justify-content: center;
+
+}
+.Menu ul li {
+    margin-top: 37px;
+    margin-right: 7px;
+}
+.Menu ul li a{
+    color: #fff;
+    padding: 10px 20px;
+}
+.logo {
+    height: 50px;
+    margin-top: 26px;
+   
+}
+
+
+.best-item{
+    display: flex;
+}
+
+
+.right{
+    height: 800px;
+    background: #d2d2d2;
+}
+
+
+
+
+.main-box{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    padding: 120px 0;
+}
+
+
+
+
+.boxx{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+}
+
+
+
+.box {
+    height: 121px;
+    width: 128px;
+    background: red;
+    text-align: center;
+    font-size: 32px;
+    line-height: 110px;
+    border-radius: 5px;
+}
+
+    
+    
+    
+ .boxx1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+ } 
+ .box-3{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+ }
+
+ .lorem-section{
+   justify-content: center;
+    display: flex;
+   
+ }
+ .lol{
+    border: 1px solid green;
+    padding: 25px;}
+
+
+    .flex-item{
+        display: flex;
+        margin-top: 25px;
+    }
+    
+    .lk{
+        height: 226px;
+        width: 443px;
+        border: 1px solid green;
+        display: flex;
+        flex-wrap: wrap;
+       
+    }
+    .item1 {
+        background: red;
+        height: 50px;
+        width: 54px;
+        text-align: center;
+        line-height: 54px;
+        font-weight: 700;
+       margin: 15px;
+    }
+
+    .flex1{
+        justify-content: space-around;
+      
+
+    }
+    .ggggg{
+        
+       
+    }
